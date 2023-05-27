@@ -1,0 +1,2 @@
+# remove this for autodoc, so that auto generated html are ignored
+_build/
