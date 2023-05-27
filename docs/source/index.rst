@@ -10,6 +10,8 @@ Welcome to CarebareAuthenticator's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+.. automodule:: CarebareAuthenticator
+   :members:
 
 
 Indices and tables
