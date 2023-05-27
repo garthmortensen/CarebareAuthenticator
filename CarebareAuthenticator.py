@@ -56,8 +56,8 @@ class CarebareAuthenticator:
             print(f"kinit failed with error: {e}")
 
 
-keytab = "/path/to/your/keytab.file"
-principal = "your-principal@YOUR-REALM.COM"
+# keytab = "/path/to/your/keytab.file"
+# principal = "your-principal@YOUR-REALM.COM"
 
-authenticator = CarebareAuthenticator(keytab, principal)
-authenticator.keytab_kinit()
+# authenticator = CarebareAuthenticator(keytab, principal)
+# authenticator.keytab_kinit()
